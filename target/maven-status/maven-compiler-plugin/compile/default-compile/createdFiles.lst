@@ -1,0 +1,11 @@
+com\gofortrainings\demopage\core\listeners\package-info.class
+com\gofortrainings\demopage\core\schedulers\package-info.class
+com\gofortrainings\demopage\core\schedulers\SimpleScheduledTask$Config.class
+com\gofortrainings\demopage\core\filters\LoggingFilter.class
+com\gofortrainings\demopage\core\filters\package-info.class
+com\gofortrainings\demopage\core\listeners\SimpleResourceListener.class
+com\gofortrainings\demopage\core\models\HelloWorldModel.class
+com\gofortrainings\demopage\core\servlets\SimpleServlet.class
+com\gofortrainings\demopage\core\servlets\package-info.class
+com\gofortrainings\demopage\core\models\package-info.class
+com\gofortrainings\demopage\core\schedulers\SimpleScheduledTask.class

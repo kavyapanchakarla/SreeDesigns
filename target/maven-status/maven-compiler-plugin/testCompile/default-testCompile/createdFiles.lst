@@ -1,0 +1,7 @@
+com\gofortrainings\demopage\core\testcontext\AppAemContext.class
+com\gofortrainings\demopage\core\schedulers\SimpleScheduledTaskTest.class
+com\gofortrainings\demopage\core\servlets\SimpleServletTest.class
+com\gofortrainings\demopage\core\listeners\SimpleResourceListenerTest.class
+com\gofortrainings\demopage\core\filters\LoggingFilterTest.class
+com\gofortrainings\demopage\core\models\HelloWorldModelTest.class
+com\gofortrainings\demopage\core\testcontext\AppAemContext$1.class
